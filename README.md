@@ -1,4 +1,4 @@
 Exercício 1 de QuickSort
 
-![image](https://user-images.githubusercontent.com/99506287/235364724-64cd35a0-ce3c-4be5-af0b-222b380c0151.png)
+![image](https://user-images.githubusercontent.com/99506287/235365051-21639a33-5339-433c-b0be-787c3baccd82.png)
 
